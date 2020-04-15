@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
 # Created by the Great Rafa another thing to cause conflict
 ## subheading to cause conflict
-=======
-# Created by the Great Rafael
->>>>>>> Stashed changes
 # Objectives
 YWBAT 
 - create files in command line 
