@@ -1,4 +1,4 @@
-Objectives
+# Objectives
 YWBAT 
 - create files in command line 
 - write to files in vim
@@ -8,7 +8,7 @@ YWBAT
 - modify and push changes 
 - view change logs
 
-Notes
+## Notes
 - touch = command that creates docs in terminal
 - vim file.py -> opens file in vim
 - hit i
@@ -25,3 +25,5 @@ Notes
 
 - how to view contents of a file?
 	- cat filename
+
+- 'md' stands for markdown it's a markup language like html
